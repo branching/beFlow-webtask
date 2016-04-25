@@ -1,0 +1,3 @@
+https://webtask.it.auth0.com/api/run/wt-erodriguezcordoba-gmail_com-0/insert
+https://webtask.it.auth0.com/api/run/wt-erodriguezcordoba-gmail_com-0/query
+https://webtask.it.auth0.com/api/run/wt-erodriguezcordoba-gmail_com-0/delete
